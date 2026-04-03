@@ -34,30 +34,9 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 >
 > This effort focuses on building a faster, memory-safe, and production-ready harness runtime.
 >
-> I'm collaborating with a close contributor to accelerate development, and we expect major progress within the next 24–48 hours.
->
+> I'm collaborating with a close contributor to accelerate development, and the rust version will be committed within the next 24–48 hours.
 > Stay tuned — this will become the core direction of the project.
 
----
-
-<p align="center">
-  <a href="https://github.com/sponsors/0xKarl-dev">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" />
-  </a>
-</p>
-
-> [!IMPORTANT]
-> A Rust-based core is currently in development and will serve as the foundation of the next phase of Claw Codes.  
->  
-> This core is designed to:
-> - improve execution speed  
-> - ensure memory safety  
-> - enable low-level system control  
-> - support scalable agent workflows  
->
-> Alongside this, a Python layer is being developed to handle orchestration, rapid iteration, and higher-level abstractions.
->
-> The system is actively evolving and will undergo continuous architectural improvements.
 
 ---
 

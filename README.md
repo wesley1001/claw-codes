@@ -50,12 +50,14 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 </p>
 
 
+
+> [![Trending on AI Digital Crew](https://us-central1-ai-digital-crew.cloudfunctions.net/trendBadge?repo=0xKarl-dev%2Fclaw-codes)](https://aidigitalcrew.com/project?repo=0xKarl-dev%2Fclaw-codes)
+
 > [!IMPORTANT]
 > 🚧🦀 **Rust Port in Progress**
->  Rust port is now in progress on the [`dev/rust`](https://github.com/0xKarl-dev/claw-codes/tree/dev/rust) branch and is being merged into main as we build it. The Rust implementation aims to deliver a faster, memory-safe harness runtime.  I'm collaborating with a close contributor to accelerate development process.
->
->
-> Stay tuned this will become the core direction of the project.
+> Rust port is now in progress on the [`dev/rust`](https://github.com/0xKarl-dev/claw-codes/tree/dev/rust) branch and is being merged into main as we build it. The Rust implementation aims to deliver a faster, memory-safe harness runtime. I'm collaborating with a close contributor to accelerate development process.
+> 
+> Stay tuned — this will become the core direction of the project.
 
 
 ---
